@@ -1,0 +1,20 @@
+name:                learn-you-a-haskell
+version:             0.1.0.0
+-- synopsis:
+-- description:
+homepage:            https://github.com/extlife/learn-you-a-haskell#readme
+license:             BSD3
+license-file:        LICENSE
+author:              Grinevich Vladimir
+maintainer:          extlife@yandex.ru
+copyright:           2022 Grinevich Vladimir
+category:            Education
+build-type:          Simple
+cabal-version:       >=1.10
+extra-source-files:  README.md
+
+executable learn-you-a-haskell
+  hs-source-dirs:      src
+  main-is:             Main.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
