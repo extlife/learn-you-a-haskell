@@ -18,5 +18,6 @@ library
                      , Ch02.Core
                      , Ch03.Core
                      , Ch04.Core
+                     , Ch05.Core
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
