@@ -25,6 +25,13 @@ library
                      , Ch06.Geometry.Cuboid
                      , Ch06.Geometry.Cube
                      , Ch07.Core
+                     , Ch08.HelloWorld
+                     , Ch08.HelloName
+                     , Ch08.HelloUpper
+                     , Ch08.Reverse
+                     , Ch08.FishSword
+                     , Ch08.Forever
+                     , Ch08.Colors
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
                      , containers==0.6.4.1
