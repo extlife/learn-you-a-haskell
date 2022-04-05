@@ -1,5 +1,3 @@
-module Ch04.Core where
-
 maximum' :: (Ord a) => [a] -> a
 maximum' [] = error "maximum of empty list"
 maximum' [x] = x

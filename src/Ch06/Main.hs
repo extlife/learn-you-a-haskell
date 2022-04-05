@@ -1,5 +1,3 @@
-module Ch06.Core where
-
 import Data.List ( find, group, isPrefixOf, nub, sort, tails )
 import Data.Char ( ord, digitToInt, chr, isDigit )
 import qualified Data.Map as Map

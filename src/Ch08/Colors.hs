@@ -1,5 +1,3 @@
-module Ch08.Colors where
-
 import Control.Monad ( forM )
 
 main :: IO ()

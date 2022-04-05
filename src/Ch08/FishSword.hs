@@ -1,5 +1,3 @@
-module Ch08.FishSword where
-
 import Control.Monad ( when )
 
 main :: IO ()

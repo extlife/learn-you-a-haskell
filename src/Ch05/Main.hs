@@ -1,5 +1,3 @@
-module Ch05.Core where
-
 compareWithHundred :: Int -> Ordering
 compareWithHundred = compare 100
 

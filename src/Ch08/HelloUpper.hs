@@ -1,5 +1,3 @@
-module Ch08.HelloUpper where
-
 import Data.Char ( toUpper )
 
 main :: IO ()

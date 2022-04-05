@@ -1,5 +1,3 @@
-module Ch08.Forever where
-
 import Control.Monad ( forever )
 import Data.Char ( toUpper )
 

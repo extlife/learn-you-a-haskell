@@ -1,5 +1,3 @@
-module Ch02.Core where
-
 removeNonUppercase :: [Char] -> [Char]
 removeNonUppercase st = [c | c <- st, c `elem` ['A' .. 'Z']]
 

@@ -1,4 +1,4 @@
-module Ch06.Geometry.Sphere
+module Geometry.Sphere
 ( volume
 , area
 ) where

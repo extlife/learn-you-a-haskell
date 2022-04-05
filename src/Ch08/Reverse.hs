@@ -1,5 +1,3 @@
-module Ch08.Reverse where
-
 main :: IO ()
 main = do
     line <- getLine 

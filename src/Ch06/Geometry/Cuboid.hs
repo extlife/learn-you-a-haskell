@@ -1,4 +1,4 @@
-module Ch06.Geometry.Cuboid 
+module Geometry.Cuboid 
 ( volume
 , area
 ) where

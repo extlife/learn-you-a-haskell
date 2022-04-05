@@ -1,7 +1,5 @@
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 {-# HLINT ignore "Use newtype instead of data" #-}
-module Ch07.Core where
-
 import qualified Data.Map as Map
 
 data Point = Point Float Float deriving(Show)

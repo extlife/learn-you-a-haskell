@@ -1,5 +1,3 @@
-module Ch01.Core where
-
 doubleMe x = x + x
 
 doubleUs x y = doubleMe x + doubleMe y
